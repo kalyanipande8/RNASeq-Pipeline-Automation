@@ -1,0 +1,17 @@
+"batch","n_flagged_samples","n_samples","pct_flagged","median_sample_to_global_cor","batch_quality_issue"
+"B14",2,19,10.5,0.708,TRUE
+"B10",4,21,19,0.721,TRUE
+"B16",1,21,4.8,0.726,TRUE
+"B04",3,20,15,0.765,TRUE
+"B09",2,30,6.7,0.767,TRUE
+"B01",0,17,0,0.776,TRUE
+"B02",1,19,5.3,0.815,TRUE
+"B05",0,23,0,0.818,TRUE
+"B12",0,20,0,0.912,FALSE
+"B15",0,17,0,0.915,FALSE
+"B06",0,20,0,0.916,FALSE
+"B03",0,26,0,0.918,FALSE
+"B11",0,16,0,0.919,FALSE
+"B08",1,16,6.2,0.92,FALSE
+"B13",0,16,0,0.92,FALSE
+"B07",0,21,0,0.924,FALSE
